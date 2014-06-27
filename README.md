@@ -17,7 +17,7 @@ _to start working on the project, take a look at the following steps_
 Connect your hardware and select the COM port, follow the usage wiki for the software on this link:
 http://www.dfrobot.com/wiki/index.php/Virtual_Servo_Controller
 
-3. _2. What hardware I need and where to get it_
+3. _What hardware I need and where to get it?_
 You will need:
 Power supply
 Servo controller
@@ -26,15 +26,9 @@ Servo ( as many as your controller allows)
 You can get it at
 DFRobot.com
 
-4. _4. 5-line code snippet on how its used (if it's a library)?_
-```c
-//my library example + 5 lines of code
-#define
-void setup()
-bla
-void loop()
-bla
-```
+4. _How t start?_
+download visual_servo_controller-win32-v0.1.rar and decompression
+install driver and run visual_servo_controller.exe
 
 ## Testing
 
