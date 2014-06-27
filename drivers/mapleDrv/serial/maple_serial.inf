@@ -52,5 +52,5 @@ ServiceBinary=%12%\usbser.sys
 [Strings] 
 STM         = "LeafLabs"
 MFGNAME     = "LeafLabs"
-DESCRIPTION = "Maple R3"
+DESCRIPTION = "DF-USBSSC24"
 SERVICE     = "USB Virtual COM port"
